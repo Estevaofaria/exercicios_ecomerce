@@ -1,2 +1,1 @@
-# exercicios_ebac
-exercícios do curso
+# exercicios_eba
